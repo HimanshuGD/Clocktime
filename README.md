@@ -1,2 +1,0 @@
-# Clocktime
-Javascript
